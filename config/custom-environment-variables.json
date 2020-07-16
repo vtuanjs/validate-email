@@ -1,0 +1,17 @@
+{
+  "Redis": {
+    "Host": "REDIS_HOST",
+    "Port": "REDIS_PORT"
+  },
+  "JWT": {
+    "SecretKey": "JWT_SECRET_KEY",
+    "ExpiresIn": "JWT_EXPRES_IN",
+    "Algorithm": "JWT_ALGORITHM"
+  },
+  "MongoDB": {
+    "ConnectionString": "MONGO_CONNECTION_STRING"
+  },
+  "HttpServer": {
+    "Port": "HTTP_PORT"
+  }
+}
